@@ -2,7 +2,4 @@
 
 This repository contains the source code for the website funkelzauber.at.
 
-Children's entertainment
-Fun and creativity
-In Carinthia, Austria
-
+Children's Entertainment, Fun, and Creativity in Carinthia, Austria
