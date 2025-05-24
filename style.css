@@ -64,6 +64,8 @@ h3 {
     letter-spacing: 1px;
     opacity: 0;
     transform: translateY(20px);
+overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 h1 {
